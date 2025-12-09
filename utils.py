@@ -1,5 +1,5 @@
-from mcproto.buffer import Buffer
 from urllib.request import urlopen
+from mcproto.buffer import Buffer
 from hashlib import md5
 from uuid import UUID
 
